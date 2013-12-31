@@ -3,6 +3,7 @@ classictheme
 A beautiful original FREE theme with many features made to please the eye!
 With added functionality Clean adaptable!
 Truely open source*
+
 +Release Notes:
  Installation
  
