@@ -83,3 +83,16 @@ $etmod = elgg_get_plugin_setting('etmod','classictheme');
 .custom-index .elgg-list {
 	padding: 10px;
 }
+.elgg-menu-filter {
+border-bottom: 0px;
+}
+
+
+.elgg-list > li {
+border-bottom: 0px;
+}
+
+
+.elgg-list {
+border-top: 0px;
+}
